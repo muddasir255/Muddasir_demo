@@ -1,3 +1,3 @@
 # Muddasir_demo
 This is my demo repository <br>
-Auther Muddasir Naeem - Add New lines
+Auther Muddasir Naeem (Student)
